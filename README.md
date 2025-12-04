@@ -24,8 +24,3 @@ I am a Master's graduate in Computer Science specializing in **Cloud Infrastruct
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📈 GitHub Stats
-
-![Subhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhash-06&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-06&layout=compact&theme=tokyonight&hide_border=true)
