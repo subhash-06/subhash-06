@@ -25,7 +25,6 @@
 - 🌱 Preparing for **Certified Kubernetes Administrator (CKA)** certification
 - 📍 Based in **Irving, Texas**
 - 💼 Open to **DevOps Engineer, Platform Engineer, SRE, and Cloud Engineer** opportunities
-- ⚡ **OPT Status:** Valid through February 2028 (STEM extension)
 
 ---
 
