@@ -23,7 +23,6 @@
 
 - 🔭 Currently working on **Production Kubernetes infrastructure and GitOps workflows**
 - 🌱 Preparing for **Certified Kubernetes Administrator (CKA)** certification
-- 📍 Based in **Irving, Texas**
 - 💼 Open to **DevOps Engineer, Platform Engineer, SRE, and Cloud Engineer** opportunities
 
 ---
