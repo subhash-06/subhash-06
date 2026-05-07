@@ -62,21 +62,18 @@
 ### 📦 [Production Kubernetes with GitOps](https://github.com/subhash-06/Production-Kubernetes-with-GitOps)
 
 
-**Tech Stack:** `Kubernetes` `ArgoCD` `NGINX Ingress` `Prometheus` `Grafana` `Azure AKS` `Helm`
 
 ---
 
 ### 🔄 [DevOps Arsenal - Dual CI/CD Pipeline](https://github.com/subhash-06/DevOps-Arsenal)
 
 
-**Tech Stack:** `Jenkins` `GitHub Actions` `Docker` `Trivy` `ArgoCD` `Kubernetes` `GitOps`
 
 ---
 
 ### ☁️ [Cloud Infrastructure Automation](https://github.com/subhash-06/Cloud-Infrastructure-Automation)
 
 
-**Tech Stack:** `Terraform` `Azure` `AKS` `VNet` `Log Analytics` `HCL` `Azure CLI`
 
 ---
 
