@@ -60,33 +60,21 @@
 ## 🎯 Featured Projects
 
 ### 📦 [Production Kubernetes with GitOps](https://github.com/subhash-06/Production-Kubernetes-with-GitOps)
-Multi-environment Kubernetes platform with automated GitOps deployment using ArgoCD
-- 🔹 Deployed dev/prod environments on Azure AKS with namespace isolation and resource quotas
-- 🔹 Implemented path-based NGINX ingress routing, reducing infrastructure costs by 66%
-- 🔹 Integrated Prometheus + Grafana for cluster monitoring and observability
-- 🔹 Configured network policies and RBAC for security compliance
+
 
 **Tech Stack:** `Kubernetes` `ArgoCD` `NGINX Ingress` `Prometheus` `Grafana` `Azure AKS` `Helm`
 
 ---
 
 ### 🔄 [DevOps Arsenal - Dual CI/CD Pipeline](https://github.com/subhash-06/DevOps-Arsenal)
-Comparative CI/CD architecture implementing Jenkins and GitHub Actions for the same application
-- 🔹 Built side-by-side CI/CD pipelines demonstrating 40% faster builds with GitHub Actions
-- 🔹 Integrated Trivy security scanning to detect vulnerabilities before deployment
-- 🔹 Automated Kubernetes manifest updates via GitOps workflow with ArgoCD
-- 🔹 Implemented production Docker builds with health checks and non-root security contexts
+
 
 **Tech Stack:** `Jenkins` `GitHub Actions` `Docker` `Trivy` `ArgoCD` `Kubernetes` `GitOps`
 
 ---
 
 ### ☁️ [Cloud Infrastructure Automation](https://github.com/subhash-06/Cloud-Infrastructure-Automation)
-Modular Terraform codebase for automated Azure AKS infrastructure provisioning
-- 🔹 Developed reusable modules for network (VNet, NSG) and AKS cluster resources
-- 🔹 Implemented auto-scaling node pools (1-5 nodes) with Azure CNI networking
-- 🔹 Configured Log Analytics monitoring with 30-day retention
-- 🔹 Reduced provisioning time from 2+ hours (manual) to 8 minutes (automated)
+
 
 **Tech Stack:** `Terraform` `Azure` `AKS` `VNet` `Log Analytics` `HCL` `Azure CLI`
 
