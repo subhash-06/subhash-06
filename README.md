@@ -112,7 +112,7 @@
 
 I'm actively seeking **DevOps, Platform, SRE, and Cloud Engineering** opportunities. Feel free to reach out!
 
-- 📧 Email: **raavis2002@gmail.com**
+- 📧 Email: **raavisubhash16@gmail.com**
 - 💼 LinkedIn: **[linkedin.com/in/subhashraavi](https://linkedin.com/in/subhashraavi)**
 - 🐙 GitHub: **[github.com/subhash-06](https://github.com/subhash-06)**
 
